@@ -1,0 +1,831 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8620
+D Dual Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Operational Amplifiers, SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8610_8620.pdf
+$ENDCMP
+#
+$CMP ADA4075-2
+D Ultralow Noise Amplifier at Lower Power, SOIC-8/LFCSP-8
+K dual low-power opamp
+F https://www.analog.com/static/imported-files/data_sheets/ADA4075-2.pdf
+$ENDCMP
+#
+$CMP ADA4807-2ARM
+D Dual Rail-to-Rail Input/Output Amplifiers, MSOP-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4807-1_4807-2_4807-4.pdf
+$ENDCMP
+#
+$CMP IR4301
+D PowIRaudio Integrated Analog Input Class D Audio Amplifier, 160W/4ohm, 80V, PQFN-22
+K integrated class d amplifier
+F https://www.infineon.com/dgdl/ir4301.pdf?fileId=5546d462533600a4015355d5fc691819
+$ENDCMP
+#
+$CMP IR4302
+D PowIRaudio 2 Channel Integrated Analog Input Class D Audio Amplifier, 130W/4ohm, 80V, PQFN-44
+K integrated class d amplifier 2ch
+F https://www.infineon.com/dgdl/ir4302.pdf?fileId=5546d462533600a4015355d602a9181d
+$ENDCMP
+#
+$CMP IR4311
+D PowIRaudio Integrated Analog Input Class D Audio Amplifier, 90W/4ohm, 60V, PQFN-22
+K integrated class d amplifier
+F https://www.infineon.com/dgdl/ir4301.pdf?fileId=5546d462533600a4015355d5fc691819
+$ENDCMP
+#
+$CMP IR4312
+D PowIRaudio 2 Channel Integrated Analog Input Class D Audio Amplifier, 100W/4ohm, 60V, PQFN-44
+K integrated class d amplifier 2ch
+F https://www.infineon.com/dgdl/ir4302.pdf?fileId=5546d462533600a4015355d602a9181d
+$ENDCMP
+#
+$CMP IR4321
+D PowIRaudio Integrated Analog Input Class D Audio Amplifier, 35W/4ohm, 40V, PQFN-22
+K integrated class d amplifier
+F https://www.infineon.com/dgdl/ir4301.pdf?fileId=5546d462533600a4015355d5fc691819
+$ENDCMP
+#
+$CMP IR4322
+D PowIRaudio 2 Channel Integrated Analog Input Class D Audio Amplifier, 35W/4ohm, 40V, PQFN-44
+K integrated class d amplifier 2ch
+F https://www.infineon.com/dgdl/ir4302.pdf?fileId=5546d462533600a4015355d602a9181d
+$ENDCMP
+#
+$CMP IRS2052M
+D 2 CH Digital Audio Amplifier, PWM Modulator, +/-100V, 0.5/0.6A, MLPQ-48
+K Gate Driver Class D 2ch
+F https://www.infineon.com/dgdl/irs2052mpbf.pdf?fileId=5546d462533600a401535675d3b32788
+$ENDCMP
+#
+$CMP IRS2092
+D Protected Digital Audio Amplifier, PWM Modulator, +/-100V, 1.0/1.2A, PDIP-16/SOIC-16
+K Gate Driver Class D
+F http://www.infineon.com/dgdl/irs2092.pdf?fileId=5546d462533600a401535675f1be2790
+$ENDCMP
+#
+$CMP IRS2093M
+D 4 CH Digital Audio Amplifier, PWM Modulator, +/-100V, 0.5/0.6A, MLPQ-48
+K Gate Driver Class D 4ch
+F https://www.infineon.com/dgdl/irs2093mpbf.pdf?fileId=5546d462533600a401535675fb892793
+$ENDCMP
+#
+$CMP IRS20957S
+D Protected Digital Audio Driver, +/-100V, 1.0/1.2A, SOIC-16
+K Gate Driver Class D
+F http://www.infineon.com/dgdl/irs20957spbf.pdf?fileId=5546d462533600a401535676143e2799
+$ENDCMP
+#
+$CMP IRS20965S
+D Class D Audio Driver, +/-100V, 2.0/2.0A, SOIC-16
+K Gate Driver Class D
+F https://www.infineon.com/dgdl/irs20965spbf.pdf?fileId=5546d462533600a4015356761d8b279b
+$ENDCMP
+#
+$CMP IRS2452AM
+D Class D Audio IC, PWM Modulator, +/-200V, 0.5/0.6A, MLPQ-32
+K Gate Driver Class D 2ch
+F https://www.infineon.com/dgdl/Infineon-IRS2452AM-DS-v01_00-EN.pdf?fileId=5546d462584d1d4a01584ee4f1f00713
+$ENDCMP
+#
+$CMP LM1875
+D 20W Audio Power Amplifier, TO-220-5
+K audio amplifier
+F http://www.ti.com/lit/ds/symlink/lm1875.pdf
+$ENDCMP
+#
+$CMP LM1876
+D Overture Audio Power Amplifier Series Dual 20W Audio Power Amplifier with Mute and Standby Modes, TO-220-15
+K audio amplifier 2ch
+F http://www.ti.com/lit/ds/symlink/lm1876.pdf
+$ENDCMP
+#
+$CMP LM1877
+D Dual Audio Power Amplifier, PDIP-14/SOIC-14
+K audio amplifier 2ch
+F http://www.ti.com/lit/ds/symlink/lm1877.pdf
+$ENDCMP
+#
+$CMP LM2876
+D Overture Audio Power Amplifier Series High-Performance 40W Audio Power Amplifier w/Mute, TO-220-11
+K audio amplifier 2ch
+F http://www.ti.com/lit/ds/symlink/lm2876.pdf
+$ENDCMP
+#
+$CMP LM358
+D Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm2904-n.pdf
+$ENDCMP
+#
+$CMP LM380N
+D 2.5W Audio Power Amplifier, PDIP-14
+K audio amplifier
+F http://www.ti.com/lit/ds/symlink/lm380.pdf
+$ENDCMP
+#
+$CMP LM380N-8
+D 2.5W Audio Power Amplifier, PDIP-8
+K audio amplifier
+F http://www.ti.com/lit/ds/symlink/lm380.pdf
+$ENDCMP
+#
+$CMP LM384
+D 5W Audio Power Amplifier, PDIP-14
+K audio amplifier
+F http://www.ti.com/lit/ds/symlink/lm384.pdf
+$ENDCMP
+#
+$CMP LM386
+D Low Voltage Audio Power Amplifier, DIP-8/SOIC-8/SSOP-8
+K single Power opamp
+F http://www.ti.com/lit/ds/symlink/lm386.pdf
+$ENDCMP
+#
+$CMP LM3886
+D Overture Audio Power Amplifier Series High-Performance 68W Audio Power Amplifier w/Mute, TO-220-11
+K audio amplifier
+F http://www.ti.com/lit/ds/symlink/lm3886.pdf
+$ENDCMP
+#
+$CMP LM4562
+D Dual High-Performance, High-Fidelity Audio Operational Amplifier, DIP-8/SOIC-8/TO-99-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm4562.pdf
+$ENDCMP
+#
+$CMP LM4752TS
+D Stereo 11W Audio Power Amplifier, TO-263-7
+K audio amplifier 2ch
+F http://www.ti.com/lit/ds/symlink/lm4752.pdf
+$ENDCMP
+#
+$CMP LM4755TS
+D Stereo 11W Audio Power Amplifier with Mute, TO-263-9
+K audio amplifier 2ch
+F http://www.ti.com/lit/ds/symlink/lm4755.pdf
+$ENDCMP
+#
+$CMP LM4766
+D Overture Audio Power Amplifier Series Dual 40W Audio Power Amplifier with Mute, TO-220-15
+K audio amplifier 2ch
+F http://www.ti.com/lit/ds/symlink/lm4766.pdf
+$ENDCMP
+#
+$CMP LM4810
+D Boomer Dual 105mW Headphone Amplifier with Active-High Shutdown Mode, VSSOP-8
+K audio amplifier headphone
+F http://www.ti.com/lit/ds/symlink/lm4810.pdf
+$ENDCMP
+#
+$CMP LM4811
+D Boomer Dual 105mW Headphone Amplifier with Digital Volume Control and Shutdown Mode, VSSOP-10
+K audio amplifier headphone 2ch
+F http://www.ti.com/lit/ds/symlink/lm4811.pdf
+$ENDCMP
+#
+$CMP LM4950TA
+D Boomer Audio Power Amplifier Series 7.5W Mono-BTL or 3.1W Stereo Audio Power Amplifier, TO-220-9
+K audio amplifier
+F http://www.ti.com/lit/ds/symlink/lm4950.pdf
+$ENDCMP
+#
+$CMP LM4950TS
+D Boomer Audio Power Amplifier Series 7.5W Mono-BTL or 3.1W Stereo Audio Power Amplifier, TO-263-9
+K audio amplifier
+F http://www.ti.com/lit/ds/symlink/lm4950.pdf
+$ENDCMP
+#
+$CMP LM4990ITL
+D Boomer 2 Watt Audio Power Amplifier with Selectable Shutdown Logic Level, DSBGA-9
+K audio amplifier class d
+F http://www.ti.com/lit/ds/symlink/lm4990.pdf
+$ENDCMP
+#
+$CMP LM4990LD
+D Boomer 2 Watt Audio Power Amplifier with Selectable Shutdown Logic Level, WSON-10
+K audio amplifier class d
+F http://www.ti.com/lit/ds/symlink/lm4990.pdf
+$ENDCMP
+#
+$CMP LM4990MH
+D Boomer 2 Watt Audio Power Amplifier with Selectable Shutdown Logic Level, MSOP-10
+K audio amplifier class d
+F http://www.ti.com/lit/ds/symlink/lm4990.pdf
+$ENDCMP
+#
+$CMP LM4990MM
+D Boomer 2 Watt Audio Power Amplifier with Selectable Shutdown Logic Level, VSSOP-8
+K audio amplifier class d
+F http://www.ti.com/lit/ds/symlink/lm4990.pdf
+$ENDCMP
+#
+$CMP LM6172
+D Dual High Speed, Low Power, Low Distortion, Voltage Feedback Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm6172.pdf
+$ENDCMP
+#
+$CMP LM7332
+D Dual Rail-to-Rail Input and Output 30-V, Wide Voltage Range, High Output, Operational Amplifier, SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm7332.pdf
+$ENDCMP
+#
+$CMP LMC6062
+D Precision CMOS Dual Micropower Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lmc6062.pdf
+$ENDCMP
+#
+$CMP LMC6082
+D Precision CMOS Dual Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lmc6082.pdf
+$ENDCMP
+#
+$CMP LMC6482
+D Dual CMOS Rail-to-Rail Input and Output Operational Amplifier, DIP-8/SOIC-8, SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lmc6482.pdf
+$ENDCMP
+#
+$CMP LME49600
+D High-Performance, High-Fidelity, High-Current Headphone Buffer, 250mA, TO-263
+K audio buffer amplifier
+F http://www.ti.com/lit/ds/symlink/lme49600.pdf
+$ENDCMP
+#
+$CMP LMV358
+D Dual Low-Voltage Rail-to-Rail Output Operational Amplifiers, SOIC-8/SSOP-8
+K single opamp
+F http://www.ti.com/lit/ds/symlink/lmv324.pdf
+$ENDCMP
+#
+$CMP LT1492
+D 5MHz, 3V/µs, Low Power, Single Supply, Dual Precision Op Amps, DIP-8/SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/14923f.pdf
+$ENDCMP
+#
+$CMP LT6234
+D Dual 60MHz, Rail-to-Rail Output, 1.9nV/√Hz, 1.2mA, Operational Amplifier, SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/623345fc.pdf
+$ENDCMP
+#
+$CMP LT6237
+D Dual 215MHz, Rail-to-Rail Output, 1.1nV/√Hz, 3.5mA, Operational Amplifier, MSOP-8/DFN-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/623637fb.pdf
+$ENDCMP
+#
+$CMP LTC6081xMS8
+D Precision Dual CMOS Rail-to-Rail Input/Output Amplifiers, MSOP-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/60812fd.pdf
+$ENDCMP
+#
+$CMP MAX9715ETE+
+D 2.8W, Low-EMI, Stereo, Filterless Class D Audio Amplifier, TQFN-16
+K Class-D Stereo
+F https://datasheets.maximintegrated.com/en/ds/MAX9715.pdf
+$ENDCMP
+#
+$CMP MAX9814
+D Microphone Amplifier with AGC and Low-Noise Microphone Bias, TDFN-14
+K audio microphone amplifier
+F https://datasheets.maximintegrated.com/en/ds/MAX9814.pdf
+$ENDCMP
+#
+$CMP MC33078
+D Low Noise, Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F https://www.onsemi.com/pub/Collateral/MC33078-D.PDF
+$ENDCMP
+#
+$CMP MC33172
+D Dual Single Supply 3.0V to 44V, Low Power Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.onsemi.com/pub/Collateral/MC33171-D.PDF
+$ENDCMP
+#
+$CMP MC33178
+D Dual Low Power, Low Noise Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F https://www.onsemi.com/pub/Collateral/MC33178-D.PDF
+$ENDCMP
+#
+$CMP MCP6002-xMS
+D 1MHz, Low-Power Op Amp, MSOP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP6002-xP
+D 1MHz, Low-Power Op Amp, DIP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP6002-xSN
+D 1MHz, Low-Power Op Amp, SOIC-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP602
+D Dual 2.7V to 6.0V Single Supply CMOS Op Amps, DIP-8/SOIC-8/TSSOP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf
+$ENDCMP
+#
+$CMP MCP6L92
+D 10 MHz, 850 µA Op Amps, SOIC-8/MSOP-8
+K dual opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22141b.pdf
+$ENDCMP
+#
+$CMP NE5532
+D Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/ne5532.pdf
+$ENDCMP
+#
+$CMP NJM2043
+D Dual Low Noise Pre-Amplifier, DIP-8/DMP-8/SIP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM2043_E.pdf
+$ENDCMP
+#
+$CMP NJM2114
+D Dual High Performance Low Noise Operational Amplifier, DIP-8/DMP-8/SIP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM2114_E.pdf
+$ENDCMP
+#
+$CMP NJM4556A
+D Dual High Current Operational Amplifier, DIP-8/DMP-8/SIP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4556A_E.pdf
+$ENDCMP
+#
+$CMP NJM4558
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4558_NJM4559_E.pdf
+$ENDCMP
+#
+$CMP NJM4559
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4558_NJM4559_E.pdf
+$ENDCMP
+#
+$CMP NJM4560
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4560_E.pdf
+$ENDCMP
+#
+$CMP NJM4580
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/MSOP-8/SOP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4580_E.pdf
+$ENDCMP
+#
+$CMP NJM5532
+D Dual Low-Noise Operational Amplifier, DIP-8/DMP-8/SIP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM5532_E.pdf
+$ENDCMP
+#
+$CMP OP249
+D Precision JFET, High Speed, Dual Operational Amplifier, DIP-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/OP249.pdf
+$ENDCMP
+#
+$CMP OP275
+D Dual Bipolar/JFET, Audio Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/OP275.pdf
+$ENDCMP
+#
+$CMP OPA1602
+D Dual SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-8/MSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa1604.pdf
+$ENDCMP
+#
+$CMP OPA1612AxD
+D Dual SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa1612.pdf
+$ENDCMP
+#
+$CMP OPA1622
+D High-Fidelity, Bipolar-Input, Audio Operational Amplifier, VSON-10
+K dual opamp audio
+F http://www.ti.com/lit/ds/symlink/opa1622.pdf
+$ENDCMP
+#
+$CMP OPA1678
+D Low-Distortion Audio Operational Amplifiers, SOIC-8/VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa1678.pdf
+$ENDCMP
+#
+$CMP OPA1688_Reversed
+D Dual Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm358.pdf
+$ENDCMP
+#
+$CMP OPA2134
+D Dual SoundPlus High Performance Audio Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa134.pdf
+$ENDCMP
+#
+$CMP OPA2277
+D Dual High Precision Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F https://www.ti.com/lit/ds/symlink/opa2277.pdf
+$ENDCMP
+#
+$CMP OPA2333xxD
+D Dual 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa333.pdf
+$ENDCMP
+#
+$CMP OPA2333xxDGK
+D Dual 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa333.pdf
+$ENDCMP
+#
+$CMP OPA2340
+D Dual Single-Supply, Rail-to-Rail Operational Amplifiers, MicroAmplifier Series, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa4340.pdf
+$ENDCMP
+#
+$CMP OPA2356xxD
+D Dual High Speed CMOS Operational Amplifiers, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa2356.pdf
+$ENDCMP
+#
+$CMP OPA2356xxDGK
+D Dual High Speed CMOS Operational Amplifiers, VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa2356.pdf
+$ENDCMP
+#
+$CMP OPA2376xxD
+D Dual Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa376.pdf
+$ENDCMP
+#
+$CMP OPA2376xxDGK
+D Dual Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series, VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa376.pdf
+$ENDCMP
+#
+$CMP OPA2691
+D Dual Wideband, Current-Feedback Operational Amplifier, SOIC-8
+K dual current feedback opamp
+F http://www.ti.com/lit/ds/sbos224d/sbos224d.pdf
+$ENDCMP
+#
+$CMP PAM8301
+D Filterless Class-D Mono Audio Amplifier, 1.5W, TSOT-26
+K audio amplifier class d
+F https://www.diodes.com/assets/Datasheets/PAM8301.pdf
+$ENDCMP
+#
+$CMP PAM8302AAD
+D 2.5W Filterless Class-D Mono Audio Amplifier, SOIC-8
+K audio amplifier class d
+F https://www.diodes.com/assets/Datasheets/PAM8302A.pdf
+$ENDCMP
+#
+$CMP PAM8302AAS
+D 2.5W Filterless Class-D Mono Audio Amplifier, MSOP-8
+K audio amplifier class d
+F https://www.diodes.com/assets/Datasheets/PAM8302A.pdf
+$ENDCMP
+#
+$CMP PAM8302AAY
+D 2.5W Filterless Class-D Mono Audio Amplifier, DFN-8
+K audio amplifier class d
+F https://www.diodes.com/assets/Datasheets/PAM8302A.pdf
+$ENDCMP
+#
+$CMP RC4558
+D Dual General Purpose, Operational Amplifier, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP RC4560
+D Dual Audio Operational Amplifier, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/rc4560.pdf
+$ENDCMP
+#
+$CMP RC4580
+D Dual Audio Operational Amplifier, SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/rc4580.pdf
+$ENDCMP
+#
+$CMP SA5532
+D Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/ne5532.pdf
+$ENDCMP
+#
+$CMP SSM2017P
+D Self-Contained Audio Preamplifier, DIP-8
+K audio preamplifier
+F https://www.analog.com/media/en/technical-documentation/obsolete-data-sheets/139484016SSM2017.pdf
+$ENDCMP
+#
+$CMP SSM2018
+D Trimless Voltage Controlled Amplifier, DIP-16
+K audio VCA
+F https://www.analog.com/media/en/technical-documentation/data-sheets/SSM2018.pdf
+$ENDCMP
+#
+$CMP SSM2120
+D Dynamic Range Pprocessor/Dual VCA, DIP-22
+K audio VCA
+F https://www.analog.com/media/en/technical-documentation/obsolete-data-sheets/105738070SSM2120.pdf
+$ENDCMP
+#
+$CMP SSM2122
+D Dynamic Range Pprocessor/Dual VCA, DIP-16
+K audio VCA
+F https://www.analog.com/media/en/technical-documentation/obsolete-data-sheets/105738070SSM2120.pdf
+$ENDCMP
+#
+$CMP SSM2165
+D Microphone Preamplifier with Variable Compression and Noise Gating, DIP-8/SOIC-8
+K audio microphone preamplifier
+F https://www.analog.com/media/en/technical-documentation/obsolete-data-sheets/SSM2165.PDF
+$ENDCMP
+#
+$CMP SSM2167
+D Low Voltage Microphone Preamplifier with Variable Compression and Noise Gating, MSOP-10
+K audio microphone amplifier
+F https://www.analog.com/media/en/technical-documentation/data-sheets/SSM2167.pdf
+$ENDCMP
+#
+$CMP STK433_Sanyo
+D 2-Channel 5 Wmin Audio Frequency Power Amplifier, 4010, SIP-15
+K audio amplifier 2ch
+F http://datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf
+$ENDCMP
+#
+$CMP STK435_Sanyo
+D 2-Channel 7 Wmin Audio Frequency Power Amplifier, 4010, SIP-15
+K audio amplifier 2ch
+F http://datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf
+$ENDCMP
+#
+$CMP STK436_Sanyo
+D 2-Channel 10 Wmin Audio Frequency Power Amplifier, 4010, SIP-15
+K audio amplifier 2ch
+F http://datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf
+$ENDCMP
+#
+$CMP STK437_Sanyo
+D 2-Channel 12 Wmin Audio Frequency Power Amplifier, 4010, SIP-15
+K audio amplifier 2ch
+F http://datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf
+$ENDCMP
+#
+$CMP STK439_Sanyo
+D 2-Channel 16 Wmin Audio Frequency Power Amplifier, 4010, SIP-15
+K audio amplifier 2ch
+F http://datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf
+$ENDCMP
+#
+$CMP STK441_Sanyo
+D 2-Channel 24 Wmin Audio Frequency Power Amplifier, 4010, SIP-15
+K audio amplifier 2ch
+F http://datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf
+$ENDCMP
+#
+$CMP STK443_Sanyo
+D 2-Channel 28 Wmin Audio Frequency Power Amplifier, 4010, SIP-15
+K audio amplifier 2ch
+F http://datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf
+$ENDCMP
+#
+$CMP TAS5825MRHB
+D 38-W Stereo, Inductor-Less, Digital Input, Closed-Loop Class-D Audio Amplifier with 192-kHz Extended Audio Processing, VQFN-32
+K Class-D Stereo
+F www.ti.com/lit/ds/symlink/tas5825m.pdf
+$ENDCMP
+#
+$CMP TDA1308
+D Class-AB Stereo Headphone Driver, SOIC-8/TSSOP-8
+K audio amplifier
+F https://www.nxp.com/docs/en/data-sheet/TDA1308.pdf
+$ENDCMP
+#
+$CMP TDA2003
+D 10W Car Radio Audio Amplifier, TO-220-5
+K audio amplifier
+F http://www.st.com/resource/en/datasheet/cd00000123.pdf
+$ENDCMP
+#
+$CMP TDA2005
+D 20W Bridge/Stereo Amplifier for Car Radio, TO-220-11
+K audio amplifier
+F http://www.st.com/resource/en/datasheet/cd00000124.pdf
+$ENDCMP
+#
+$CMP TDA2030
+D 14W Hi-Fi Audio Amplifier, TO-220-5
+K audio amplifier
+F http://www.st.com/resource/en/datasheet/cd00000128.pdf
+$ENDCMP
+#
+$CMP TDA2050
+D 32W Hi-Fi Audio Amplifier, TO-220-5
+K audio amplifier
+F http://www.st.com/resource/en/datasheet/cd00000131.pdf
+$ENDCMP
+#
+$CMP TDA7052A
+D 1W BTL mono audio amplifier with DC volume control, DIP-8/SOIC-8
+K audio amplifier
+F http://www.nxp.com/docs/en/data-sheet/TDA7052A_AT.pdf
+$ENDCMP
+#
+$CMP TDA7264
+D 25W + 25W stereo amplifier with mute and standby, TO-220-8
+K audio amplifier 2ch
+F http://www.st.com/resource/en/datasheet/tda7264.pdf
+$ENDCMP
+#
+$CMP TDA7265
+D 25W +25W Stereo Amplifier with Mute & St-by, TO-220-11
+K audio amplifier 2ch
+F http://www.st.com/resource/en/datasheet/tda7265.pdf
+$ENDCMP
+#
+$CMP TDA7265B
+D 30W + 30W Stereo Amplifier with Mute and Standby, TO-220-11
+K audio amplifier 2ch
+F http://www.st.com/resource/en/datasheet/tda7265b.pdf
+$ENDCMP
+#
+$CMP TDA7266
+D 7+7W Dual Bridge Amplifier, TO-220-15
+K audio amplifier 2ch
+F http://www.st.com/resource/en/datasheet/tda7266.pdf
+$ENDCMP
+#
+$CMP TDA7266D
+D 5W+5W Dual Bridge Amplifier, PowerSO-20
+K audio amplifier 2ch
+F http://www.st.com/resource/en/datasheet/tda7266d.pdf
+$ENDCMP
+#
+$CMP TDA7266M
+D 7W Mono Bridge Amplifier, TO-220-15
+K audio amplifier
+F http://www.st.com/resource/en/datasheet/tda7266m.pdf
+$ENDCMP
+#
+$CMP TDA7266P
+D 3W+3W Dual Bridge Amplifier, PowerSSO-24
+K audio amplifier 2ch
+F http://www.st.com/resource/en/datasheet/tda7266p.pdf
+$ENDCMP
+#
+$CMP TDA7269A
+D 14W+14W Stereo Amplifier with Mute & St-by, TO-220-11
+K audio amplfier 2ch
+F http://www.st.com/resource/en/datasheet/tda7269a.pdf
+$ENDCMP
+#
+$CMP TDA7292
+D 40W + 40W stereo amplifier with mute and standby, TO-220-11
+K audio amplifier 2ch
+F http://www.st.com/resource/en/datasheet/tda7292.pdf
+$ENDCMP
+#
+$CMP TDA7293
+D 120-volt, 100-watt, DMOS Audio Amplifier with Mute and Standby, TO-220-15
+K audio amplifier
+F http://www.st.com/resource/en/datasheet/tda7293.pdf
+$ENDCMP
+#
+$CMP TDA7294
+D 100V - 100W DMOS Audio Amplifier with Mute/St-by, TO-220-15
+K audio amplifier
+F http://www.st.com/resource/en/datasheet/tda7294.pdf
+$ENDCMP
+#
+$CMP TDA7295
+D 80V - 80W DMOS Audio Amplifier with Mute/St-by, TO-220-15
+K audio amplifier
+F http://www.st.com/resource/en/datasheet/tda7295.pdf
+$ENDCMP
+#
+$CMP TDA7296
+D 70V - 60W DMOS Audio Amplifier with Mute/St-by, TO-220-15
+K audio amplifier
+F http://www.st.com/resource/en/datasheet/tda7296.pdf
+$ENDCMP
+#
+$CMP TDA7297
+D 15+15W Dual Bridge Amplifier, TO-220-15
+K audio amplifier 2ch
+F http://www.st.com/resource/en/datasheet/tda7297.pdf
+$ENDCMP
+#
+$CMP TDA7496
+D 5W+5W Amplifier with DC Volume Control, TO-220-15
+K audio amplifier 2ch
+F http://www.st.com/resource/en/datasheet/tda7297.pdf
+$ENDCMP
+#
+$CMP THAT2180
+D Blackmer Pre-Trimmed IC Voltage Controlled Amplifiers, SIP-8
+K audio vca
+F http://www.thatcorp.com/datashts/THAT_2180-Series_Datasheet.pdf
+$ENDCMP
+#
+$CMP THAT2181
+D Blackmer Trimmable IC Voltage Controlled Amplifiers, SIP-8/SOIC-8
+K audio vca
+F http://www.thatcorp.com/datashts/THAT_2181-Series_Datasheet.pdf
+$ENDCMP
+#
+$CMP TL062
+D Dual Low-Power JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl061.pdf
+$ENDCMP
+#
+$CMP TL072
+D Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl071.pdf
+$ENDCMP
+#
+$CMP TL082
+D Dual JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl081.pdf
+$ENDCMP
+#
+$CMP TLC272
+D Dual LinCMOS Precision Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tlc272.pdf
+$ENDCMP
+#
+$CMP TLC277
+D Dual LinCMOS Precision Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tlc272.pdf
+$ENDCMP
+#
+$CMP TLV2372
+D Dual Rail-to-Rail Input/Output Operational Amplifier, DIP-8/SOIC-8/VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tlv2375.pdf
+$ENDCMP
+#
+$CMP TS912
+D Dual Rail-to-rail CMOS Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F www.st.com/resource/en/datasheet/ts912.pdf
+$ENDCMP
+#
+$CMP TSV912IDT
+D Dual rail-to-rail input/output 8 MHz operational amplifiers, SOIC-8
+K dual opamp
+F www.st.com/resource/en/datasheet/tsv911.pdf
+$ENDCMP
+#
+$CMP TSV912IST
+D Dual rail-to-rail input/output 8 MHz operational amplifiers, MiniSO-8
+K dual opamp
+F www.st.com/resource/en/datasheet/tsv911.pdf
+$ENDCMP
+#
+#End Doc Library

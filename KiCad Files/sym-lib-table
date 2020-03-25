@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ina1620)(type Legacy)(uri ${KIPRJMOD}/ina1620.lib)(options "")(descr ""))
+  (lib (name OPA1688_Rev)(type Legacy)(uri "C:/Users/mason/OneDrive/Personal/INA1620 Adapter Board/INA1620Adapter/Amplifier_Audio.lib")(options "")(descr ""))
+)

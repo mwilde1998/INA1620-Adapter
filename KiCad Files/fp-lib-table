@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name INA1620Adapter)(type KiCad)(uri "C:/Users/mason/OneDrive/Personal/INA1620 Adapter Board/INA1620Adapter")(options "")(descr ""))
+)
