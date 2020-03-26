@@ -6,4 +6,4 @@ The PCB design essentially matches up the pinout of the OPA1688 to the equivalen
 ## Project Status Updates
 **3/22/20:** Final design complete. Prototype PCBs ordered from OSH Park, stencils ordered from OSH Stencils
 
-![PCB Render] (/Images/OSHPark_PCB.png)
+![PCB Render](/Images/OSHPark_PCB.png)
